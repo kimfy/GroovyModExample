@@ -1,4 +1,5 @@
 # GroovyModExample
+[![Build Status](https://drone.io/github.com/kimfy/GroovyModExample/status.png)](https://drone.io/github.com/kimfy/GroovyModExample/latest)
 
 In this repository you will find information and instructions on how you can code a Minecraft mod in Groovy.
 

@@ -76,6 +76,8 @@ In this repository you will find information and instructions on how you can cod
 6. New File-> Groovy Class -> Give it a valid name. I chose my mod name. E.g. `GroovyModExample.groovy`
 7. Annotate the class with the usual @Mod annotation and go on from here. Look in this repository for working examples.
 
+Look for the build.gradle script in this repository if you want to see the final outcome.
+
 ### @CompileStatic
 
 Any class or method where you're referencing Mojang code/deobfuscated code you HAVE to annotate with @CompileStatic.
